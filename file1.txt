@@ -5,5 +5,5 @@ line 3 inserted using master
 1234
 22222222222222
 11111111
-
+set pull
  
