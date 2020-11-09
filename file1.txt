@@ -1,2 +1,3 @@
 file1 added
 line inserted using dev env
+line 3 inserted using master
