@@ -8,9 +8,5 @@ line 3 inserted using master
 yyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 =======
 set pull
---------------------------
-  ppppppppppp
-oooooooooooo
-qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
-66666666666666666666 
+ 888888888888888888
 
